@@ -5,5 +5,6 @@ Kumpulan Latihan Praktikum  Kelas Web Programming B UNTAR<br>
 
 <h3>Content List:</h3>
 <ol>
-  <li>Week 1: <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/anthonyme00/B_WebProgramming_535180083/master/Week%201/index.html">Week 1 - Index </a></li>
+  <li>Week 1: <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/anthonyme00/B_WebProgramming_535180083/master/Week%201/index.html">Week 1 - Index</a></li>
+  <li>Week 2: <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/anthonyme00/B_WebProgramming_535180083/master/Week%202/index.html">Week 2 - Index</a></li>
 </ol>
