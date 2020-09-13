@@ -1,0 +1,12 @@
+.padded{
+	margin: 50px;
+}
+
+#ch2,#ch3,#ch4{
+	margin-top: -40px;
+	padding-top: 60px;
+}
+
+#ch1{
+	padding-top: 60px;
+}
