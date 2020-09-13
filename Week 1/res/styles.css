@@ -1,68 +1,68 @@
 h1 {
-	background-color: #AAD2BA;
+  background-color: #AAD2BA;
 }
 
 h1.underborder {
-	border-style: hidden hidden hidden solid;
-	padding-left: 10px;
-	text-color: #1D1E18;
+  border-style: hidden hidden hidden solid;
+  padding-left: 10px;
+  text-color: #1D1E18;
 }
 
 q {
-	font-weight: bold;
-	font-style: italic;
-	background-color: #B9F5D8;
-	padding: 20px;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #B9F5D8;
+  padding: 20px;
 }
 
 red {
-	color: red;
+  color: red;
 }
 
 div {
-	padding-bottom: 20px;
-	padding-top: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 div.header {
-	padding-bottom: 0px;
-	padding-top: 0px;
-	padding-left: 0px;
-	padding-right: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 links {
-	padding-bottom: 0;
-	padding-top: 0;
-	padding-left: 10px;
-	padding-right: 10px;
-	border-right: solid;
-	background-color: #6B8F71;
+  padding-bottom: 0;
+  padding-top: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-right: solid;
+  background-color: #6B8F71;
 }
 
 a.nounderline {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 links:hover {
-	background-color: #737373;
+  background-color: #737373;
 }
 
 pageselect {
-	font-size:15px;
+  font-size:15px;
 }
 
 body {
-	background-color: #D9FFF5;
+  background-color: #D9FFF5;
 }
 
 * {
-	color: #1D1E18;
-	font-family: Sans-serif;
+  color: #1D1E18;
+  font-family: Sans-serif;
 }
 
 td {
-	padding: 5px;
+  padding: 5px;
 }
